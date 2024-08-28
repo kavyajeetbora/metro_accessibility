@@ -1,4 +1,4 @@
-# From Minutes to Maps: 3D Visualization of Metro Accessibility in Delhi NCR
+# From Minutes to Maps: 3D Visualization of Metro Accessibility in Delhi
 
 A Comprehensive Guide to Calculating and Visualizing Metro Accessibility in Delhi NCR Using 3D Mapping
 
