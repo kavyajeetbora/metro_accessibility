@@ -34,10 +34,10 @@ We demonstrated how to calculate and visualize metro accessibility in Delhi NCR 
 - `README.md`: This file.
 
 ### References
-- OSMnx Documentation
-- Pandana Documentation
-- H3 Documentation
-- Pydeck Documentation
+- [OSMnx Documentation](https://osmnx.readthedocs.io/en/stable/)
+- [Pandana Documentation](https://udst.github.io/pandana/)
+- [H3 Documentation](https://h3geo.org/docs/)
+- [Pydeck Documentation](https://deckgl.readthedocs.io/en/latest/)
 ---
 
 Feel free to customize this `README.md` further to suit your needs. If you need any more adjustments, let me know!
