@@ -4,6 +4,8 @@ A Comprehensive Guide to Calculating and Visualizing Metro Accessibility in Delh
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kavyajeetbora/metro_accessibility/blob/master/notebooks/metro_accessibility_viz.ipynb)
 
+**Comprehensive Guide on Medium**: [*From Minutes to Maps: 3D Visualization of Metro Accessibility in Delhi, India*](https://medium.com/@kavyajeetbora/from-minutes-to-maps-3d-visualization-of-metro-accessibility-in-delhi-ncr-715d1b887ba6)
+
 ### Introduction
 
 ![Image-accessibility](https://github.com/user-attachments/assets/1925ef58-8bb1-48eb-9d90-7a4a69c86b47)
