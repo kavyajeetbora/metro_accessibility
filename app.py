@@ -45,4 +45,5 @@ with open(r"Images/Delhi Accessibility.html", "r") as file:
 
 st.title("Delhi Metro Accessibility")
 st.text("Accessibility to the nearest metro station in Delhi NCR")
+st.text("(hold right-click of your mouse to rotate)")
 st.components.v1.html(html_string, height=600, scrolling=False)
